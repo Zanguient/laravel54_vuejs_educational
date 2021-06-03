@@ -5,7 +5,7 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": "7.3.10",
+        "php": "7.4.19",
         "kris/laravel-form-builder": "1.12.1",
         "laravel/framework": "5.4.*",
         "laravel/tinker": "~1.0",
